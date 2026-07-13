@@ -1,0 +1,9 @@
+jupyter
+notebook
+python-dotenv
+matplotlib
+seaborn
+pandas
+tokenizers
+numpy
+google-generativeai
