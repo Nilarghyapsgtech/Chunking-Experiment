@@ -5,6 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "chonkie[catsu,openai]>=1.7.0",
+    "chonkie[catsu,code,openai]>=1.7.0",
     "dotenv>=0.9.9",
 ]
